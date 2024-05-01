@@ -1,0 +1,8 @@
+/* About.css */
+.experience-container {
+  width: 100vw - 1rem; /* Default width for mobile */
+  margin: auto;
+  border: 1px solid #7dbaa2;
+  padding: 1rem;
+  background-color: rgba(252, 249, 249, 0.69);
+}

@@ -1,0 +1,34 @@
+.art-container {
+  width: 100vw - 1rem; /* Default width for mobile */
+  margin: auto;
+  border: 1px solid #7dbaa2;
+  padding: 1rem;
+  background-color: #fcf9f9;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
+.art-content {
+  display: block; /* Default to block for mobile */
+}
+
+@media (min-width: 768px) {
+  .art-content {
+    display: flex; /* Use flex on tablet and larger devices */
+  }
+}
+
+.art-column {
+  flex: 1;
+}
+
+.images-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
