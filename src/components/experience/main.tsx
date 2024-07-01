@@ -37,15 +37,6 @@ const Experience = () => {
       description: "Built critical features for a Web3 wallet web app.",
     },
     {
-      title: "Project Lead / Software Engineer",
-      company: "Abdo Technology",
-      location: "Monterrey, Mexico",
-      startDate: "Sept 2023",
-      endDate: "Jan 2024",
-      description:
-        "Frontend development for several React and Flutter projects",
-    },
-    {
       title: "Frontend Developer",
       company: "Gnosis Ltd.",
       location: "Remote | Mexico",
