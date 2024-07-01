@@ -9,10 +9,12 @@ import Art from "@/components/art/main";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <Header />
-      <About />
-      <Experience />
-      <Art />
+      <div style={{ maxWidth: "1080px" }}>
+        <Header />
+        <About />
+        <Experience />
+        <Art />
+      </div>
     </main>
   );
 }
