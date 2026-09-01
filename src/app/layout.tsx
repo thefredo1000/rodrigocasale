@@ -6,6 +6,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "rodrigoca.sale",
   description: "Rodrigo Casale Ayup",
+  icons: {
+    icon: "/favicon.ico", // Points to public/custom-icon.png
+  },
 };
 
 export default function RootLayout({

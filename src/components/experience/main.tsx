@@ -11,13 +11,30 @@ type Experience = {
 const Experience = () => {
   const experiences: Array<Experience> = [
     {
+      title: "Freelancer / Consultant",
+      company: "Self-employed",
+      location: "Mexico",
+      startDate: "Apr 2019",
+      endDate: "Current",
+      description:
+        "When I'm not working for a company, I help other people with their tech-related projects.",
+    },
+    {
+      title: "Game Developer",
+      company: "Casale Games😎",
+      location: "Mexico",
+      startDate: "Aug 2026",
+      endDate: "Current",
+      description: "I'm currently working on some Game Boy Advance games!",
+    },
+    {
       title: "Fullstack Software Engineer",
       company: "Pinterest",
       location: "Remote | Mexico",
       startDate: "Jan 2024",
-      endDate: "Present",
+      endDate: "Aug 2026",
       description:
-        "Working on systems for the internal ads review process in Pinterest, mainly directed to the processing, conversion and redirection of data.",
+        "Working on systems for the internal Ads Review process in Pinterest, mainly directed to the processing, conversion and redirection of data.",
     },
     {
       title: "Project Lead / Software Engineer",

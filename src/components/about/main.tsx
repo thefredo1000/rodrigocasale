@@ -6,11 +6,9 @@ const About = () => {
     <div className="about-container">
       <h1>About Me</h1>
       <p>
-        I&apos;m a software engineer from Mexico. Currently I&apos;m employed at
-        <strong style={{ color: "#E60023" }}> Pinterest</strong> as a fullstack
-        engineer where I believe we&apos;re doing a lot of cool stuff.
+        I&apos;m a Software Engineer, YouTuber, musician, artist and a cool guy!
       </p>
-      <p>I have experience with a bunch of technologies:</p>
+      <p>I have work experience with a bunch of technologies:</p>
       <ul>
         <li>TypeScript</li>
         <li>Java</li>

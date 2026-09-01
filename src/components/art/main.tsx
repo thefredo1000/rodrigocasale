@@ -41,12 +41,12 @@ const Art = () => {
             </li>
             <li>
               <h3 style={{ marginBottom: "0.5rem" }}>
-                <a href="https://soundcloud.com/casalecasalecasale">
-                  Soundcloud
+                <a href="https://open.spotify.com/artist/6STA9Ci85VCSomal9FHe8a?si=2yma53bkR2eNmP2GvixJXg">
+                  Spotify!
                 </a>
               </h3>
               <ul>
-                <li>More music!</li>
+                <li>Listen to my music!</li>
               </ul>
             </li>
             <li>
